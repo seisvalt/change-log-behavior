@@ -1,5 +1,5 @@
 {
-  "name": "cranky4/change-log-behavior",
+  "name": "seisvalt/change-log-behavior",
   "description": "Simple changelog behavior for yii2 models",
   "license": "MIT",
   "keywords": [
@@ -13,7 +13,7 @@
     }
   ],
   "require": {
-    "yiisoft/yii2": "~2.0.15.1"
+    "yiisoft/yii2": "^2.0.15"
   },
   "require-dev": {},
   "autoload": {

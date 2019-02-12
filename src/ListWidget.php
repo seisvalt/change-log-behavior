@@ -5,9 +5,9 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace cranky4\changeLogBehavior;
+namespace seisvalt\changeLogBehavior;
 
-use cranky4\changeLogBehavior\helpers\CompositeRelationHelper;
+use seisvalt\changeLogBehavior\helpers\CompositeRelationHelper;
 use yii\base\Widget;
 use yii\data\ActiveDataProvider;
 use yii\db\ActiveRecord;
