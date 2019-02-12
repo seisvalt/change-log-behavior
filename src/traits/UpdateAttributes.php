@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: cranky4
- * Date: 04/09/2017
- * Time: 13:25
- */
+
 
 namespace seisvalt\changeLogBehavior\traits;
 
