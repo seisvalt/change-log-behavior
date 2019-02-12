@@ -1,4 +1,4 @@
-# Changelog Behavior simplified(v.1.0.0) 
+# Changelog Behavior simplified(v.1.0.7) 
 
 Simple behavior for your yii2-models 
 
